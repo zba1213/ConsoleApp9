@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World and github");
+﻿Console.WriteLine("Hello, World and github");
+
+Console.WriteLine("skal den her også");
